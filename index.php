@@ -9,11 +9,7 @@
 </head>
 <body>
     <h1>Español Wilber chacón</h1>
-<<<<<<< HEAD
-    <h2>Hola 2</h2>
-=======
     <h2>Hola 3</h2>
->>>>>>> rama-tres
 
 <table border="1">
     <tr>
